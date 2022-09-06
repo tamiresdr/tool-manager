@@ -46,6 +46,11 @@ Prepare seu ambiente de desenvolvimento:
 $ make init-dev
 ```
 
+Crie as tabelas no banco de dados:
+```
+$ make migrate
+```
+
 Agora rode a aplicação e "corra para o abraço":
 ```
 $ make run
