@@ -1,0 +1,4 @@
+HOST='localhost'
+DATABASE='tool-manager'
+USER='root'
+PASSWORD='tool-manager'

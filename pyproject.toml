@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "tool-manager"
+version = "0.0.1"
+description = "Sistema Desktop para gestão de ferramentas por equipes de manutenção"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pillow = "^9.2"
+
+[tool.poetry.dev-dependencies]
+blue = "*"
+isort = "*"
+bandit = "*"
+mypy = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.blue]
+line-length = 120
+exclude = "(/venv|/.venv)"
+
+[tool.mypy]
+ignore_missing_imports = true
