@@ -19,7 +19,7 @@ def users_page(frame_master):
     frame_page_users.grid(row=0, column=0, sticky='ewns')
 
     # RESULTS TABLE
-    label_frame_user_list = ttk.LabelFrame(frame_page_users, text='Lista de Usuários')
+    label_frame_user_list = ttk.LabelFrame(frame_page_users, text='Listar')
     label_frame_user_list.grid(row=0, column=0, padx=8, pady=8, sticky='ewns')
 
     columns = ('name', 'cpf', 'shift', 'phone', 'team')
@@ -82,7 +82,7 @@ def users_page(frame_master):
     textbox.grid(row=0, column=2, padx=10, pady=20)
 
     # EDIT DATA
-    label_frame_edit = ttk.LabelFrame(frame_page_users, text='Dados do Usuário')
+    label_frame_edit = ttk.LabelFrame(frame_page_users, text='Editar')
     label_frame_edit.grid(row=2, column=0, padx=8, pady=8, sticky='ew')
 
     label = ttk.Label(

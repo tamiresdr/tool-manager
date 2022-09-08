@@ -23,17 +23,23 @@
 
 ### 3.1 Download do projeto
 
+Faça o download deste repositório ou clone via SSH, como descrito abaixo.
+
+Configure uma chave SSH para sua conta no GitHub:
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+Clone o repositório do GitHub para sua máquina:
+```
+$ git clone git@github.com:tamiresdr/tool-manager.git
+```
+
 ### 3.2 Dependências
 - Python >= 3.10
-- Poetry
+- Poetry (`$ pip install poetry`)
 - Git
 
 ### 3.3 Como utilizar?
-Clone repositório do GitHub para sua máquina:
-```
-$ gh repo clone <link para este repositório>
-```
-
 \* Garanta que todas as dependências listadas na seção [Dependências](#32-dependências) estão instaladas corretamente.
 
 Copie o arquivo `env-example` para seu `.env`:
