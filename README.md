@@ -13,10 +13,12 @@
 **Grupo:** Dev team 8
 
 **Integrantes**
-- Tamires Damasceno Rodrigues (Matrícula 202205214702)
-- Thayrine Damasceno Rodrigues (Matrícula 202205214771)
+- [Tamires Damasceno Rodrigues (Matrícula 202205214702)](https://www.linkedin.com/in/tamiresdr/)
+- [Thayrine Damasceno Rodrigues (Matrícula 202205214771)](https://www.linkedin.com/in/thayrinedr/)
 - Felipe Freaza Fidalgo (Matrícula 202205014495)
 - Florence Cristina Gonçalves (Matrícula 202205236005)
+
+Apresentação em Vídeo: https://www.youtube.com/watch?v=7r5FQ05FICY
 
 ---
 
@@ -36,7 +38,7 @@ Este projeto, **Projetando Uma Aplicação Desktop**, foi desenvolvido em grupo 
 
 O principal objetivo do desafio proposto é desenvolver uma aplicação desktop em Python para gestão das ferramentas utilizadas por técnicos durante a manutenção em um ambiente de produção de conteúdo audiovisual de grande porte, que possui muitas instalações e equipamentos com diversas necessidades de manutenção preventiva e corretiva recorrentes. Sendo que existem várias equipes de manutenção, separadas por turnos, que trabalham nos mesmos equipamentos e instalações.
 
-À esse sistema atribuimos o nome **Tool Manager** e ele está em sua primeira versão. Investimos bastante tempo na configuração do projeto com as melhores práticas do mundo de desenvolvimento de Software, mas entendemos que ainda temos muito trabalho pela frente. Seguiremos aperfeiçoando este sistema e liberando novas versões. A ideia é utilizar este projeto como ferramenta de estudo contínua. Já temos em vista, por exemplo, a inclusão de testes automatizados para aumentar a segurança e integridade do código.
+À esse sistema atribuímos o nome **Tool Manager** e ele está em sua primeira versão. Investimos bastante tempo na configuração do projeto com as melhores práticas do mundo de desenvolvimento de Software, mas entendemos que ainda temos muito trabalho pela frente. Seguiremos aperfeiçoando este sistema e liberando novas versões. A ideia é utilizar este projeto como ferramenta de estudo contínua. Já temos em vista, por exemplo, a inclusão de testes automatizados para aumentar a segurança e integridade do código.
 
 ## 2 Requisitos Funcionais
 
